@@ -1,4 +1,15 @@
 # chinese-ministry-of-foreign-affairs-spokesperson-s-remarks
+
+## Chinese Ministry of Foreign Affairs Spokesperson's Remarks
+
+Sources: The official website of Chinese Ministry of Foreign Affairs
+
+Time Scrapped: 2020/04/29 PST
+
+Data Format: csv(UTF-8), rdata
+
+Notes: Excel on Mac cannot open the UTF-8 encoded csv data directly, please refer to https://answers.microsoft.com/en-us/msoffice/forum/all/excel-for-mac-not-opening-utf-8-csv-files/67d951d3-b616-4f7d-9d9a-af76045f7947
+
 ## 中国外交部发言人表态 (chinese ministry of foreign affairs spokesperson's remarks)
 
 来源：中华人民共和国外交部官网
